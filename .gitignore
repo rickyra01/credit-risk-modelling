@@ -18,7 +18,7 @@ outputs/*.png
 outputs/*.csv
 
 # (Opzionale) raw data se non vuoi condividerli
-# data/raw/
+data/processed/
 
 # Other folder (come dicevi)
 other/
